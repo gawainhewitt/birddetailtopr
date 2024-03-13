@@ -36,7 +36,7 @@ void setup(void)
 
   spr.setColorDepth(16); // 16 bit colour needed to show antialiased fonts
 
-  tft.fillScreen(REDDISHPURPLE);
+  tft.fillScreen(ORANGE);
 }
 
 void loop(void)
